@@ -1,0 +1,8 @@
+transformers
+torch
+auto-gptq==0.5.1
+optimum
+autoconfig
+openai==0.28
+einops
+# pip install torch torchvision torchaudio
