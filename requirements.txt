@@ -5,4 +5,5 @@ optimum
 autoconfig
 openai==0.28
 einops
+langchain
 # pip install torch torchvision torchaudio
